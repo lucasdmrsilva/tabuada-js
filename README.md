@@ -47,5 +47,5 @@ cd tabuada-js
 
 Sinta-se à vontade para explorar o código. Se tiver sugestões ou quiser relatar um problema, pode abrir uma **issue** no repositório.
 
-* * **[LinkedIn Lucas Silva](https://www.linkedin.com/in/lucasmrsilva)**
+*  **[LinkedIn Lucas Silva](https://www.linkedin.com/in/lucasmrsilva)**
 *  **[E-mail Lucas Silva](mailto:lucasmrsilva1198@gmail.com)**
