@@ -4,7 +4,10 @@ Este é um projeto simples de **Gerador de Tabuada (Multiplication Table Generat
 
 A aplicação permite que o usuário insira um número base e defina até qual número ele deve ser multiplicado, gerando a tabela de resultados dinamicamente na tela.
 
-![Captura de Tela da Tabuada](assets/img-readme.png) 
+<div align="center">
+   <img src="assets/img-readme-2.png" alt="Captura de Tela da Tabuada - Resultado Gerado" width="45%" style="margin-left: 1%;">
+  <img src="assets/img-readme.png" alt="Captura de Tela da Tabuada - Entrada de Dados" width="45%" style="margin-right: 1%;">
+  </div>
 
 ---
 
